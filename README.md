@@ -33,8 +33,8 @@ Actualmente finalizando la **Tecnicatura en Tecnologías de Programación** (UPS
 ---
 
 ## 📫 Contacto
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/melisa-belen-diaz-nieto/)
-- **Behance:** [behance.net/tuusuario](https://www.behance.net/melisabelendiaz)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/melisa-belen-diaz-nieto/)
+- **Behance:** [behance](https://www.behance.net/melisabelendiaz)
 - **Email:** melisabdiaz.it@gmail.com
 
 ---
