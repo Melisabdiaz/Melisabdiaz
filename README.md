@@ -26,6 +26,7 @@ Actualmente finalizando la **Tecnicatura en Tecnologías de Programación** (UPS
 
 ## 🚀 Experiencia en proyectos
 - Desarrollo de proyectos académicos y personales de frontend y UX/UI
+- Participación en simulaciones laborales (No Country)
 - Integración de diseño UX/UI en aplicaciones web
 - Creación de wireframes y mockups aplicados a desarrollos reales
 
@@ -38,4 +39,4 @@ Actualmente finalizando la **Tecnicatura en Tecnologías de Programación** (UPS
 
 ---
 
-✨ *Mi objetivo es crecer en el mundo IT, combinar mi experiencia en programación con el diseño UX/UI y ser parte de proyectos que generen impacto positivo.*
+✨ *"Design creates culture. Culture shapes values. Values determine the future."*
