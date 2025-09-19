@@ -1,17 +1,41 @@
-## Hi there 👋
+# 🖖 ¡Hola! Soy Melisa
 
-My name is Melisa. I love coding, coffee and cats :cat:
-<!--
-**Melisabdiaz/Melisabdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrolladora Frontend Jr.** y **Diseñadora UX/UI**, con formación en programación y una gran pasión por crear productos digitales que combinen **tecnología, accesibilidad y diseño centrado en las personas**.  
+Actualmente finalizando la **Tecnicatura en Tecnologías de Programación** (UPSO).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Desarrollo
+- Frontend con **HTML, CSS, JavaScript**
+- **Programación orientada a objetos (POO)** con Python y C#
+- **Bases de datos SQL** (consultas, modelado, CRUD)
+- Manejo de **Git & GitHub** en proyectos colaborativos
+- Consumo e integración de **APIs REST**
+- Conceptos de arquitectura web y buenas prácticas
+
+---
+
+## 🎨 UX / UI
+- Diseño de interfaces con **Figma** y **Adobe XD**
+- Prototipado rápido y pruebas de usabilidad
+- **Accesibilidad** en diseño web
+- Experiencia diseñando flujos de usuario intuitivos
+- Portafolio visual en [Behance](https://www.behance.net/melisabelendiaz)
+
+---
+
+## 🚀 Experiencia en proyectos
+- Desarrollo de proyectos académicos y personales de frontend y UX/UI
+- Integración de diseño UX/UI en aplicaciones web
+- Creación de wireframes y mockups aplicados a desarrollos reales
+
+---
+
+## 📫 Contacto
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/melisa-belen-diaz-nieto/)
+- **Behance:** [behance.net/tuusuario](https://www.behance.net/melisabelendiaz)
+- **Email:** melisabdiaz.it@gmail.com
+
+---
+
+✨ *Mi objetivo es crecer en el mundo IT, combinar mi experiencia en programación con el diseño UX/UI y ser parte de proyectos que generen impacto positivo.*
