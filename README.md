@@ -1,6 +1,6 @@
 # 🖖 ¡Hola! Soy Melisa
 
-**Desarrolladora Frontend Jr.** y **Diseñadora UX/UI** based in Buenos Aires, con formación en programación y una gran pasión por crear productos digitales que combinen **tecnología, accesibilidad y diseño centrado en las personas**.  
+**Desarrolladora Frontend Jr.** con enfoque en **Diseño UX/UI** based in Buenos Aires, con formación en programación y una gran pasión por crear productos digitales que combinen **tecnología, accesibilidad y diseño centrado en las personas**.  
 Actualmente finalizando la **Tecnicatura en Tecnologías de Programación** (UPSO).
 
 ---
